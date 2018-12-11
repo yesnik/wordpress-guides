@@ -25,3 +25,6 @@ do not use template tags which generate their own titles.
 These are set inside of PHP statements which "print" the text on the page. 
 While these could be put inside of heading tags, WordPress uses the `_e()` function to display or `echo` the text titles while also marking the text as a possible target for language translation.
 
+## Footer
+
+The footer is found within the `footer.php` template file.
