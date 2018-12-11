@@ -12,13 +12,15 @@ For example, when viewing the front page of your WordPress site, you are actuall
 
 ```
 <body>
-<div id="page">
-<div id="header"></div>
-<div id="content" class="narrowcolumn"></div>
-<div id="sidebar"></div>
-<div id="footer"></div>
-</div><!-- end page -->
+  <div id="page">
+  <div id="header"></div>
+  <div id="content" class="narrowcolumn"></div>
+  <div id="sidebar"></div>
+  <div id="footer"></div>
+  </div><!-- end page -->
 </body>
 ```
 
+Some themes may add a second, third, or even fourth sidebar, creating a column effect. 
+However, in all cases, the basic core structure essentially remains the same.
 
