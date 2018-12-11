@@ -1,2 +1,3 @@
-# wordpress-guides
-Useful information about Wordpress
+# Wordpress Guides
+
+Useful information about Wordpress.
