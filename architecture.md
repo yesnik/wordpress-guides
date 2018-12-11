@@ -33,3 +33,7 @@ WordPress themes divide the core structure into individual blocks called *templa
 - Content - *index.php, single.php, page.php, category.php, author.php, search.php, etc.*
 - Footer - *footer.php*
 
+When viewing a web page that uses a particular WordPress theme, the specific template files generated are dependent upon the user's request. If a user clicks on a category tag, the *category template* will be used. If the user views a page, the *page template* will be used.
+
+When these core template files are loaded in combination with the *WordPress Loop* and *queries*, a variety of templates can be generated.
+
