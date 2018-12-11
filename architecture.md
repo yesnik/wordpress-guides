@@ -24,3 +24,12 @@ For example, when viewing the front page of your WordPress site, you are actuall
 Some themes may add a second, third, or even fourth sidebar, creating a column effect. 
 However, in all cases, the basic core structure essentially remains the same.
 
+## Template files
+
+WordPress themes divide the core structure into individual blocks called *template files*:
+
+- Header - *header.php*
+- Sidebar/Menu - *sidebar.php*
+- Content - *index.php, single.php, page.php, category.php, author.php, search.php, etc.*
+- Footer - *footer.php*
+
