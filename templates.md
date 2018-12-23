@@ -85,3 +85,11 @@ Note, that comment with template name is required: `/* Template Name: Full Width
 
 <?php get_footer(); ?>
 ```
+
+## Use shortcode in template
+
+Use this function in your php template file to execute shortcode of some plugin:
+
+```php
+<?php echo do_shortcode('[contact-form-7 id="367" title="Order call"]'); ?>
+```
